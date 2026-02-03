@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Diego's notities
+comments: "true"
+date: 2026-02-01
 ---
+Goeie dag beste lezer.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Op deze site houd ik vooral studie notities bij.
+
+# 🔥✍️Actieve notities
+- [[Engineering]]
