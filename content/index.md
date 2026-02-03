@@ -7,5 +7,5 @@ Goeie dag beste lezer.
 
 Op deze site houd ik vooral studie notities bij.
 
-# 🔥✍️Actieve notities
+# ✍️Actieve notities
 - [[Engineering]]
