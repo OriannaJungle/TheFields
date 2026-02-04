@@ -1,3 +1,8 @@
+---
+tags:
+  - Duurzaam_Energietechniek
+title: Les 1 duurzaam energietechniek
+---
 Opdrachten van duurzaam energietechniek worden via de online methode gedaan. De licentie daarvoor staat in het boek.
 
 ![[Boek energietechniek.png|200]]
