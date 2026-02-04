@@ -1,6 +1,6 @@
 ---
 title: Engineering
-comments: "true"
+comments: "false"
 ---
 Studie notes Windesheim en andere dingen die te maken hebben met engineering.
 

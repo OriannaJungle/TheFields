@@ -35,7 +35,7 @@ Windenergie, kinetische energie, vermogenslevering uit wind.
 
 Hoeveelheid massa aanwezig in een bepaald volume
 
-$$ϱ = dichtheid = \frac{m}{V} [kg / m^3]$$
+$$\rho = dichtheid = \frac{m}{V} [kg / m^3]$$
 
 $$snel lopendsnelheid=λ=\frac{V_{tip}}{V_{wind}}$$
 
@@ -44,7 +44,7 @@ $$vermogenscoeficient=C_{p}=\frac{P_{trub}}{P_{wind}}$$
 ## Les formules
 $$E_{wind}=\frac{1}{2}mv^2 [J]$$
 
-$$E_{wind}=\frac{1}{2}mϱ^2 [J / m^3]$$
+$$E_{wind}=\frac{1}{2}m\rho^2 [J / m^3]$$
 
 $$P_{wind=\frac{1}{2}ϱv^3*A}$$
 
