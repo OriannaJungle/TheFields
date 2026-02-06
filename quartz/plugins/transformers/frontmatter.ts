@@ -124,6 +124,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             allSlugs.splice(0, allSlugs.length, ...uniqueSlugs)
 
             // fill in frontmatter
+// turns all coments off by default
 data.comments ??= false;
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
           }
