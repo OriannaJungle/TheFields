@@ -22,5 +22,6 @@ Over twee weken nog een opdracht.
 
 En over 4 weken 2 opdracht tegelijk, einde periode 3 inleveren (eind maart).
 
-# Huidige opdracht:
+# [[Les 1 Opdracht OPEX productie voorbereiden|Huidige opdracht]]:
 afgeschreven elektronisch product uit elkaar halen. Vaststellen wat er in zit en een stuklijst overzicht maken. Beslis of de welke onderdelen vallen onder make or buy. Vaststellen productie methode. Hergebruik, circulariteit en reparatbaarheid? Wat valt erover te zeggen?
+
