@@ -84,9 +84,11 @@ $$E_{trubine}= 0.65 kW * 1000 h/jaar = 650 kWh/jaar$$
 
 ### **a.**
 
-
-$$P=?$$
 ---
+$$P_{trubine}=?$$
+
+---
+
 $$P_{wind}=\frac{1}{2}ϱv^3*A$$
 
 $$\rho = 1.2 kg/m^3$$
@@ -96,6 +98,8 @@ $$v =4m/s$$
 $$A = \pi \left( \frac{46}{2} \right)^2=1661.9m^2$$
 
 $$C_{p_{4m/s}}= 0.328$$
+
+---
 
 $$P_{wind}=\frac{1}{2}*1.2*4^3*1661.9=63816.96W$$
 
@@ -108,7 +112,11 @@ $$P_{trubine}=0.328*63816.96≈20932W$$
 ### **b.**
 
 #### Gegevens
+
+
 $$D = 46\ \text{m}$$
+
+Luchtdichtheid
 
 $$\rho = 1.2\ \text{kg/m}^3$$
 
@@ -137,21 +145,19 @@ $$\text{prijs elekektrisiteit} = 0.088\ \text{€/kWh}$$
 
 
 ##### 6–10 uur (4 uur)
-$$v=4.5,\quad C_p=0.399$$
-
-$$P_{6-10}=\frac12 * 1.2 * 4.5^3* 1661.9  * 0.399$$
+$$v=4.5, \quad C_p=0.399$$
 
 
-$$P_{6-10}=0.6\cdot 1661.9\cdot 91.125\cdot 0.399$$
+$$P_{6-10} = \frac{1}{2} * 1.2 * 4.5^3 * 1661.9 * 0.399$$
 
 
-$$P_{6-10}\approx 36191\ \text{W}=36.19\ \text{kW}$$
+$$P_{6-10} \approx 36191 \text{ W} = 36.19 \text{ kW}$$
 
 
-$$E_{6-10}=36.19\cdot 4=144.76\ \text{kWh}$$
+$$E_{6-10} = 36.19 \cdot 4 = 144.76 \text{ kWh}$$
 
 ---
-
+##### Herhaal voor rest van de dag
 $$E_{10-18}=136.83* 8=1094.64\ \text{kWh}$$
 
 ---
@@ -174,3 +180,101 @@ $$E_{dag}=1383.49\ \text{kWh}$$
 $$\text{winst}_{dag}=1383.49* 0.088 = 121.$$
 
 $$\text{€}_{dag}=121.8\ \text{€/dag}$$
+
+
+---
+
+### **c.**
+
+Ik ga er nu van uit dat nominaal het maximale elektrische vermogen is dat de tribune kan produceren onder optimale winds omstandigheden.
+
+Hoogst gemeten windsnelheid gemiddeld 20 augustus geeft 7m/s:
+
+**Gegeven**
+
+$$v=7.0, \quad C_p=0.400, \quad \rho=1.2 \ \text{kg/m}^3, A=1661.9m^2$$
+
+---
+
+
+$$P_{wind}=\frac{1}{2}ϱv^3*A$$
+
+
+$$P_{6-10} = \frac{1}{2} * 1.2 * 7^3 * 1661.9 * 0.400=136.8KW$$
+
+**Wat is de nominale snelheid?**
+
+## opdracht 3
+
+### **a.**
+
+**Gegeven:**
+
+luchtcichtheid:
+
+$$\rho=1,2kg/m$$
+
+Windsnelheid
+
+$$v=10m/s$$
+
+GE 1.5s
+vermogen bij v 10m/s
+
+$$P_{trub}=1000kW=1000*10^3W$$
+diameter
+
+$$D=77m$$
+
+
+GE 1.5sl
+vermogen bij v 10m/s
+
+$$P_{trub}=1300kW=1300*10^3W$$
+diameter
+
+$$D=70.5m$$
+
+---
+
+Oppervlakte
+
+GE 1.5s
+
+$$A = pi * \left( \frac{77}{2} \right)^2$$
+
+$$A=4656m^2$$
+
+GE 1.5sl
+
+
+$$A = pi * \left( \frac{70.5}{2} \right)^2$$
+
+$$A=3903m^2$$
+
+---
+
+Vermogen wind
+
+$$P_{wind}=\frac{1}{2}ϱv^3*A$$
+
+
+GE 1.5s
+
+$$P_{wind}=\frac{1}{2}*1.2*10^3*4656=2.79*10^6$$
+
+GE 1.5sl
+
+$$P_{wind}=\frac{1}{2}*1.2*10^3*3903=2.34*10^6$$
+
+---
+
+$$vermogenscoeficient=C_{p}=\frac{P_{trub}}{P_{wind}}$$
+
+GE 1.5s
+
+$$C_{p}=\frac{1000*10^3}{2.79*10^6}=0.36$$
+
+GE 1.5sl
+
+$$C_{p}=\frac{1300*10^3}{2.34*10^6}=0.56$$
